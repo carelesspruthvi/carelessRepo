@@ -6,3 +6,4 @@ Good morning..
 Do something great 
 look good feel good devops 
 everything is possible 
+devops reduce work dev and operation
